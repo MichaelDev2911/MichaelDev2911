@@ -6,7 +6,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelDev2911&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-- 🌱 Estou aprendendo A desenvolver o back-end de aplicações
+- 🌱 Estou aprendendo a desenvolver o back-end de aplicações
+ - 🌱 Estou aprendendo a testar e automatizar aplicações
 - 👯 Estou migrando da área da indústria para tecnologia da informação
 - 😊 Feedback é sempre bem vindo
 
