@@ -17,7 +17,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://user-images.githubusercontent.com/76186505/152795923-30971bcc-f0cd-4102-9d6e-cfa95e13be30.gif">
 </div>
 
 
